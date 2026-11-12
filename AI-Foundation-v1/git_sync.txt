@@ -1,0 +1,9 @@
+cd /h/AI_Projects/chatgpt-AI-Learning/AI-Foundation-v1
+git init -b main
+git remote add origin https://github.com/skumar22k/AI_Selflearning.git
+
+
+cd /h/AI_Projects/chatgpt-AI-Learning/AI-Foundation-v1
+git add .
+git commit -m "Add AI-Foundation-v1 notes"
+git push -u origin main
